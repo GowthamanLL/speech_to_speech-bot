@@ -1,0 +1,14 @@
+moviepy
+nltk
+streamlit
+SpeechRecognition
+transformers
+pyttsx3
+pyaudio
+torch
+pydub
+opencv-python
+streamlit
+google-generativeai
+python-dotenv
+gtts
